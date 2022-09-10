@@ -1,0 +1,46 @@
+a{
+	color:aqua ;
+}
+h2{
+  color: chartreuse;
+}
+h3{
+  color: aquamarine;
+}
+#why-learn{
+  color: bisque;
+}
+div.why-learn__block{
+  color: blanchedalmond;
+}
+.whom-and-why__block,
+.what-you-need__block{
+  color: blue;
+}
+.whom-and-why__block p{
+  color: blueviolet;
+}
+.stages-of-learning__block {
+  color: brown;
+}
+.stages-of-learning__block > p{
+  color: burlywood;
+}
+.what-you-need__block p{
+  color: cadetblue;
+}
+.learning-frontend__block {
+  color: chocolate;
+}
+.learning-frontend__block ~ p{
+  color:cornflowerblue;
+}
+.conclusion__block {
+  color: crimson;
+}
+.conclusion__block + p{
+  color: cyan;
+}
+.menu{
+  color: darkgoldenrod;
+}
